@@ -13,3 +13,6 @@ http://partnerfactoryprogram.s3-website-us-east-1.amazonaws.com/labpack/dynamodb
 
 http://partnerfactoryprogram.s3-website-us-east-1.amazonaws.com/labpack/fullmicroservice/fullmicroservice.html
 
+Setting up AWS CLI on work laptop
+https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html#awscli-install-osx-pip
+
