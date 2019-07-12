@@ -7,5 +7,7 @@ Recommended: Completion of the
 
 Setting up AWS CLI on work laptop
 
+* (coworker) My typical recommendation is to use the pip method to install the cli `pip3 install awscli --upgrade --user`  You may have to install pip first, though. 
+
 * https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html#awscli-install-osx-pip
 
