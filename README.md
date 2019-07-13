@@ -13,3 +13,5 @@ Setting up AWS CLI on work laptop
 
 * https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html#awscli-install-osx-pip
 
+```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py --user <user-name>```
+
