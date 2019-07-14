@@ -15,3 +15,5 @@ Setting up AWS CLI on work laptop
 
 ```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py --user <user-name>```
 
+* Here
+https://docs.python-guide.org/starting/install3/osx/
