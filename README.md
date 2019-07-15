@@ -11,8 +11,8 @@ Setting up AWS CLI on work laptop
 
 * Followed the steps on this page to install Homebrew, Pip and Python3: 
 
-https://docs.python-guide.org/starting/install3/osx/
+** https://docs.python-guide.org/starting/install3/osx/
 
 * Did this to install awscli
 
-`pip3 install awscli --upgrade --user`
+** `pip3 install awscli --upgrade --user`
