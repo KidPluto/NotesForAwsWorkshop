@@ -9,14 +9,10 @@ Recommended: Completion of the
 
 Setting up AWS CLI on work laptop
 
-* (coworker) My typical recommendation is to use the pip method to install the cli `pip3 install awscli --upgrade --user`  You may have to install pip first, though. 
-
-* https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html#awscli-install-osx-pip
-
-```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py --user <user-name>```
-
-* Using the steps from this page:
+* Followed the steps on this page to install Homebrew, Pip and Python3: 
 
 https://docs.python-guide.org/starting/install3/osx/
 
-Homebrew, to get Pip, to get Python3
+* Did this to install awscli
+
+`pip3 install awscli --upgrade --user`
