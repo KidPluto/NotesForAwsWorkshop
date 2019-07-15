@@ -18,3 +18,5 @@ Setting up AWS CLI on work laptop
 * Using the steps from this page:
 
 https://docs.python-guide.org/starting/install3/osx/
+
+Homebrew, to get Pip, to get Python3
