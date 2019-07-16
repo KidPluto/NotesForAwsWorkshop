@@ -46,7 +46,7 @@ Setting up AWS CLI on work laptop
   * AWS Fargate is different from AWS ECS how?
   * AWS others: AWS Kinesis Data Analytics, AWS Fargate (runs containers)
 * Storage layer: AWS Systems Manager, AWS DynamoDB
-* Push notifications: AWS SNS, AWS Pinpoint (mobile apps), 
+* Push notifications (to start the game): AWS API Gateway 
 
 
 
