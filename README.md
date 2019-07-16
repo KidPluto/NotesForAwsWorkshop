@@ -20,3 +20,6 @@ Setting up AWS CLI on work laptop
   * `pip3 install awscli --upgrade --user`
 
 * Then had to `aws configure`
+
+# Serverless Party Parrot
+
