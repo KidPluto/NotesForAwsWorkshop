@@ -36,7 +36,9 @@ Setting up AWS CLI on work laptop
 * Static web serving: Route53 (DNS), CloudFront (CDN), S3 (Storage)
 * Security: IAM, Cognito (integrate with AD / LDAP / email / ...), 
   * RBAC - Role Based Access Control
-* Next
+* Injest & Consume: API Gateway 
+  * Others: Kafka or IoT Gateway
+  * AWS others: Kinessi Data Systems, IoT Core, AppSync
 
 
 
