@@ -34,13 +34,17 @@ Setting up AWS CLI on work laptop
 # Alien Attack
 
 * https://serverless.alienattack.ninja/
+* http://lab.alienattack.ninja
 * Static web serving: AWS Route53 (DNS), AWS CloudFront (CDN), AWS S3 (Storage)
 * Security: AWS IAM, Cognito (integrate with AD / LDAP / email / ...), 
   * RBAC - Role Based Access Control
-* Injest & Consume: AWS API Gateway to AWS Kinesis
+* Injest & Consume: AWS API Gateway to AWS Kinesis (real-time data stream processing)
   * API Gateway is able to check that the data is good, unlike Kinesis or IoT Core
   * Others: Kafka or IoT Gateway
   * AWS others: Kinesis Data Systems, IoT Core, AppSync
-* http://lab.alienattack.ninja
+* Processing: AWS Lambda
+  * AWS Fargate is different from AWS ECS how?
+  * Others: ...
+  * AWS others: AWS Kinesis Data Analytics, AWS Fargate (runs containers)
 
 
