@@ -35,7 +35,7 @@ Setting up AWS CLI on work laptop
 * https://serverless.alienattack.ninja/
 * Static web serving: Route53 (DNS), CloudFront (CDN), S3 (Storage)
 * Security: IAM, Cognito (integrate with AD / LDAP / email / ...), 
-  * RBAC - 
+  * RBAC - Role Based Access Control
 * Next
 
 
