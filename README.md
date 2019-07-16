@@ -40,6 +40,6 @@ Setting up AWS CLI on work laptop
   * API Gateway is able to check that the data is good, unlike Kinesis or IoT Core
   * Others: Kafka or IoT Gateway
   * AWS others: Kinesis Data Systems, IoT Core, AppSync
-
+* http://lab.alienattack.ninja
 
 
