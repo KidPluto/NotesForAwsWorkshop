@@ -42,11 +42,10 @@ Setting up AWS CLI on work laptop
   * API Gateway is able to check that the data is good, unlike Kinesis or IoT Core
   * Others: Kafka or IoT Gateway
   * AWS others: Kinesis Data Systems, IoT Core, AppSync
-* Processing: AWS Lambda
+* Processing:  AWS Kinesis Data Firehose, AWS Lambda
   * AWS Fargate is different from AWS ECS how?
-  * Others: ...
   * AWS others: AWS Kinesis Data Analytics, AWS Fargate (runs containers)
-* Storage layer: AWS Kinesis Data Firehose, AWS Systems Manager, AWS DynamoDB
+* Storage layer: AWS Systems Manager, AWS DynamoDB
 
 
 
