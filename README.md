@@ -21,5 +21,11 @@ Setting up AWS CLI on work laptop
 
 * Then had to `aws configure`
 
+# Workshop
+
+* About 50 people
+
 # Serverless Party Parrot
 
+* Slolom
+* Toy parrot, Rasberry Pi, seven AWS services
