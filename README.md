@@ -33,10 +33,10 @@ Setting up AWS CLI on work laptop
 # Alien Attack
 
 * https://serverless.alienattack.ninja/
-* Static web serving: Route53 (DNS), CloudFront (CDN), S3 (Storage)
-* Security: IAM, Cognito (integrate with AD / LDAP / email / ...), 
+* Static web serving: AWS Route53 (DNS), AWS CloudFront (CDN), AWS S3 (Storage)
+* Security: AWS IAM, Cognito (integrate with AD / LDAP / email / ...), 
   * RBAC - Role Based Access Control
-* Injest & Consume: API Gateway 
+* Injest & Consume: AWS API Gateway to AWS Kinesis
   * API Gateway is able to check that the data is good, unlike Kinesis or IoT Core
   * Others: Kafka or IoT Gateway
   * AWS others: Kinesis Data Systems, IoT Core, AppSync
