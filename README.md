@@ -33,4 +33,7 @@ Setting up AWS CLI on work laptop
 # Alien Attack
 
 * https://serverless.alienattack.ninja/
+* Static web serving: Route53 (DNS), CloudFront (CDN), S3 (Storage)
+
+
 
