@@ -37,8 +37,9 @@ Setting up AWS CLI on work laptop
 * Security: IAM, Cognito (integrate with AD / LDAP / email / ...), 
   * RBAC - Role Based Access Control
 * Injest & Consume: API Gateway 
+  * API Gateway is able to check that the data is good, unlike Kinesis or IoT Core
   * Others: Kafka or IoT Gateway
-  * AWS others: Kinessi Data Systems, IoT Core, AppSync
+  * AWS others: Kinesis Data Systems, IoT Core, AppSync
 
 
 
