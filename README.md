@@ -25,6 +25,7 @@ Setting up AWS CLI on work laptop
 
 * About 50 people
 * Two different stickers for Lambda, which I think is a squarrel.  One of them was wearing glasses.  So the most important way of getting you service to succed is to have a cute animal icon.
+* The Cloud 9 IDE is not integrated with AWS 
 
 # Serverless Party Parrot
 
