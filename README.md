@@ -47,6 +47,7 @@ Setting up AWS CLI on work laptop
   * AWS others: AWS Kinesis Data Analytics, AWS Fargate (runs containers)
 * Storage layer: AWS Systems Manager, AWS DynamoDB
 * Push notifications (to start the game): AWS API Gateway 
+* https://github.com/fabianmartins/alienattack.workshop
 
 
 
