@@ -29,3 +29,6 @@ Setting up AWS CLI on work laptop
 
 * Slolom
 * Toy parrot, Rasberry Pi, seven AWS services
+
+https://serverless.alienattack.ninja/
+
