@@ -46,5 +46,7 @@ Setting up AWS CLI on work laptop
   * AWS Fargate is different from AWS ECS how?
   * Others: ...
   * AWS others: AWS Kinesis Data Analytics, AWS Fargate (runs containers)
+* Storage layer: AWS 
+
 
 
