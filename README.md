@@ -46,6 +46,7 @@ Setting up AWS CLI on work laptop
 * **Processing**:  AWS Kinesis Data Firehose, AWS Lambda
   * AWS Fargate is different from AWS ECS how?
   * AWS ECS on EC2 (gives you more control) vs AWS Fargate
+  * We use ECS on EC2 as Fargate would have been 2x to 5x more expansive.  Also Fargate needed an IP per Docker container.
   * AWS others: AWS Kinesis Data Analytics, AWS Fargate (runs containers)
 * **Storage layer**: AWS Systems Manager, AWS DynamoDB
 * **Push notifications** (to start the game): AWS API Gateway 
